@@ -11,4 +11,7 @@ Context Engineering from LangChain: https://blog.langchain.com/context-engineeri
 - 1 token = 0.75 个英文单词 / 1.5个汉字
 <img width="1956" height="942" alt="da714cd8-0003-4725-a31c-7fead6a5550c" src="https://github.com/user-attachments/assets/53a92945-c444-4476-9b91-48608bd4d2ea" />
 
+<img width="1450" height="824" alt="f470e78d-112f-4c77-8c92-853a3c391940" src="https://github.com/user-attachments/assets/36f1e8cc-f1d1-4164-a39f-39586708de19" />
+
+
 
