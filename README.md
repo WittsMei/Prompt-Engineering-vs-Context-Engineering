@@ -43,7 +43,8 @@ Context Engineering from LangChain: https://blog.langchain.com/context-engineeri
 
 <img width="1214" height="646" alt="50b91b516104be8af06e94487d1053ce (1)" src="https://github.com/user-attachments/assets/151438f4-3671-44bc-8050-073c12452541" />
 
-<img width="810" height="552" alt="06d25d62-1b24-4c6c-b600-dfb34e699d78" src="https://github.com/user-attachments/assets/04c4b51c-70d1-484b-9ff2-981057804c19" />
+<img width="1266" height="604" alt="2c7aa579-8474-4e26-992d-ebc962d6ed2d" src="https://github.com/user-attachments/assets/bd67f704-8de6-42af-ac55-4f5a5929759e" />
+
 
 
 
