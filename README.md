@@ -30,7 +30,7 @@ Context Engineering from LangChain: https://blog.langchain.com/context-engineeri
 ### Prompt Engineering vs RAG vs Context Engineering
 <img width="582" height="552" alt="a164c3ab-05db-4f85-8435-375083d82469" src="https://github.com/user-attachments/assets/6060ea1b-e2cb-4721-a3e1-05e33cd1d632" />
 
-
+<img width="700" height="726" alt="43673b14-eabb-431e-9a70-1247e620f835" src="https://github.com/user-attachments/assets/9066865c-0093-49d1-988c-fa5509102ca0" />
 
 
 
