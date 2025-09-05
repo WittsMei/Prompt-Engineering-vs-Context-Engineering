@@ -36,6 +36,12 @@ Context Engineering from LangChain: https://blog.langchain.com/context-engineeri
 <img width="1938" height="1098" alt="3b1092cf1cc202476ae28210a0881462" src="https://github.com/user-attachments/assets/0b298b3d-902e-450b-a756-ca0188962481" />
 
 
+### Requirements from HUAWEI
+
+<img width="1214" height="646" alt="50b91b516104be8af06e94487d1053ce (1)" src="https://github.com/user-attachments/assets/151438f4-3671-44bc-8050-073c12452541" />
+
+
+
 
 
 
