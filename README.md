@@ -15,7 +15,7 @@ Context Engineering from LangChain: https://blog.langchain.com/context-engineeri
 <img width="716" height="670" alt="d6247cf3-a830-4321-a634-483577ce9c99" src="https://github.com/user-attachments/assets/e67c4a52-ad63-454a-88b3-65527bbf82b7" />
 
 
-### Example
+### Example for Context engineering
 <img width="2436" height="764" alt="1e2d98a0-c471-4984-853b-ab81a1aa247f" src="https://github.com/user-attachments/assets/adfc4442-61ca-4975-90f7-10c09f713a6b" />
 
 
